@@ -7,7 +7,6 @@
   
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue) [![Docs](https://img.shields.io/badge/Docs-Available-success)](#step-by-step-code-explanation)
 
-**I am Looking for a PhD position in AI**. [GitHub](https://github.com/FareedKhan-dev)
 
 </div>
 
@@ -1331,9 +1330,3 @@ for the condensed command reference. The whole chain runs with `bash scripts/run
 I recommend that you create the 13+ million-parameter model and then start scaling it by adding the next 100 parameters, improving its ability to handle shorter contexts. It’s up to you how many more parameters you want to train for specific tasks. Then, for the remaining parameters under 1B, try fine-tuning the model on domain-specific data, such as writing emails or essays, and see how it generates the text.
 
 <hr>
-
-Wanna chat on something? [My Linkedin](https://www.linkedin.com/in/fareed-khan-dev/)
-
-## Star History
-
-[![](https://api.star-history.com/svg?repos=FareedKhan-dev/train-llm-from-scratch&type=Date)](https://star-history.com/#FareedKhan-dev/train-llm-from-scratch&Date)
